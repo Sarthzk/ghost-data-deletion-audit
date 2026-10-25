@@ -1,0 +1,47 @@
+{
+ "file_id": "evidence_55",
+ "file_path": "evidence/documents/security_retention_extract.pdf",
+ "artifact_kind": "compliance_journal_extract",
+ "records": [
+  {
+   "resource_id": "audit_record_003",
+   "system": "security_service",
+   "record_type": "SECURITY_AUDIT_LOG",
+   "references": [
+    "CJX-20260905-0630",
+    "audit_record_003",
+    "Journal partition 2026-Q3"
+   ],
+   "subject_reference": null,
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-09-05T06:30:00Z",
+   "notes": "Issued 05 Sep 2026 06:30 UTC; storage class compliance-ledger; integrity seal valid; fingerprint 8f0c…31ad"
+  },
+  {
+   "resource_id": "audit_record_003",
+   "system": "security_service",
+   "record_type": "SECURITY_AUDIT_LOG",
+   "references": [
+    "CJX-20260905-0630"
+   ],
+   "subject_reference": "user_03",
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": "2027-08-25T04:03:00Z",
+   "observed_at": "2026-08-25T04:03:00Z",
+   "notes": "event: Account closure recorded; actor: automated account workflow; record version 1"
+  }
+ ]
+}

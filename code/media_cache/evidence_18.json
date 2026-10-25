@@ -1,0 +1,31 @@
+{
+ "file_id": "evidence_18",
+ "file_path": "evidence/documents/account_history_report_20260718.pdf",
+ "artifact_kind": "account_history_service",
+ "records": [
+  {
+   "resource_id": "export_1842",
+   "system": "export_service",
+   "record_type": "USER_EXPORT",
+   "references": [
+    "statement NST-2026-0718-1842",
+    "NST-2026-0718-1842",
+    "ORD-20261260",
+    "Visa ending 4821",
+    "SKU LAMP-SD-04"
+   ],
+   "subject_reference": "user_18",
+   "full_name": "Ingrid Dahl",
+   "email": "ingrid.dahl@outlook.com",
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-07-18T11:00:00Z",
+   "notes": "Order date 08 Jul 2026; delivered 14 Jul; delivery address 24 Fjordgata, 7010 Trondheim, Norway.",
+   "resolved_from_alias": "statement NST-2026-0718-1842"
+  }
+ ]
+}

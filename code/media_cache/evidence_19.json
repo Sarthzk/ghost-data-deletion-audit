@@ -1,0 +1,27 @@
+{
+ "file_id": "evidence_19",
+ "file_path": "evidence/images/analytics_profile_view_20260713.png",
+ "artifact_kind": "analytics_profile_screenshot",
+ "records": [
+  {
+   "resource_id": "analytics_7438",
+   "system": "analytics_platform",
+   "record_type": "ANALYTICS_PROFILE",
+   "references": [
+    "user_20",
+    "analytics_7438"
+   ],
+   "subject_reference": "user_20",
+   "full_name": "Omar Darwish",
+   "email": "darwish.omar@icloud.com",
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-07-13T10:00:00Z",
+   "notes": "Sessions 12; Products viewed 19; Completed orders 2; Revenue USD 167.42; Acquisition Organic search; Market AE; Audience Returning shopper; Interest Coffee & dining; Last activity 2026-07-13T14:22 UTC; First seen 2026-04-21T09:14 UTC."
+  }
+ ]
+}

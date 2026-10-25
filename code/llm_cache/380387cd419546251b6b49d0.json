@@ -1,0 +1,244 @@
+{
+ "results": [
+  {
+   "id": 0,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account closure and deletion of personal data"
+  },
+  {
+   "id": 1,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account closure and deletion of personal data"
+  },
+  {
+   "id": 2,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account closure and deletion following retention rules"
+  },
+  {
+   "id": 3,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account closure and deletion including copies"
+  },
+  {
+   "id": 4,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account closure and deletion including linked identifiers"
+  },
+  {
+   "id": 5,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account closure and deletion including linked identifiers"
+  },
+  {
+   "id": 6,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account closure and deletion including privacy-process records"
+  },
+  {
+   "id": 7,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account closure and deletion including privacy-process records"
+  },
+  {
+   "id": 8,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account closure and deletion under standard procedure"
+  },
+  {
+   "id": 9,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account closure and deletion under standard procedure"
+  },
+  {
+   "id": 10,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account closure and deletion under standard procedure"
+  },
+  {
+   "id": 11,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account closure and deletion under standard procedure"
+  },
+  {
+   "id": 12,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account closure and deletion reviewing connected identifiers"
+  },
+  {
+   "id": 13,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account closure and deletion reviewing connected identifiers"
+  },
+  {
+   "id": 14,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests permanent account deletion with backup retention limits"
+  },
+  {
+   "id": 15,
+   "authorizes_deletion": true,
+   "request_type": "DELETION_FOLLOW_UP",
+   "reason": "Deletion previously claimed but account still visible; requests investigation"
+  },
+  {
+   "id": 16,
+   "authorizes_deletion": true,
+   "request_type": "DELETION_FOLLOW_UP",
+   "reason": "Deletion claimed earlier but traces remain; requests completion and disable sync"
+  },
+  {
+   "id": 17,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account erasure and application to covered records"
+  },
+  {
+   "id": 18,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account erasure and confirmation after process finishes"
+  },
+  {
+   "id": 19,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account erasure across systems per deletion policy"
+  },
+  {
+   "id": 20,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account erasure across systems and completion notice"
+  },
+  {
+   "id": 21,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account erasure across systems with verification checks"
+  },
+  {
+   "id": 22,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests erasure and checks of connected records before confirmation"
+  },
+  {
+   "id": 23,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account erasure with normal identity and data review"
+  },
+  {
+   "id": 24,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account erasure with identity review and contact for verification"
+  },
+  {
+   "id": 25,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account erasure applied to relevant account records"
+  },
+  {
+   "id": 26,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account erasure applied to relevant account records"
+  },
+  {
+   "id": 27,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests erasure following retention and deletion requirements"
+  },
+  {
+   "id": 28,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests erasure including handling of copies within scope"
+  },
+  {
+   "id": 29,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests erasure including handling of copies within scope"
+  },
+  {
+   "id": 30,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests erasure including handling of copies; offers verification info"
+  },
+  {
+   "id": 31,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests erasure including linked current or earlier identifiers"
+  },
+  {
+   "id": 32,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests erasure including linked current or earlier identifiers"
+  },
+  {
+   "id": 33,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests erasure including linked identifiers; offers verification contact"
+  },
+  {
+   "id": 34,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests erasure including linked identifiers and confirmation after process"
+  },
+  {
+   "id": 35,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests erasure including records under privacy process"
+  },
+  {
+   "id": 36,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests erasure including records under privacy process and review notice"
+  },
+  {
+   "id": 37,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests erasure including records under privacy process with confirmation"
+  },
+  {
+   "id": 38,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests erasure and review of connected identifiers before completion"
+  },
+  {
+   "id": 39,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests erasure and review of connected identifiers; offers verification contact"
+  }
+ ]
+}

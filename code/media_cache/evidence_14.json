@@ -1,0 +1,86 @@
+{
+ "file_id": "evidence_14",
+ "file_path": "evidence/images/connector_management_console_20260807.png",
+ "artifact_kind": "integration_admin: connections topology",
+ "records": [
+  {
+   "resource_id": "data_flow_1121",
+   "system": "integration_service",
+   "record_type": "DATA_FLOW",
+   "references": [
+    "customer_analytics_warehouse",
+    "Data Platform"
+   ],
+   "subject_reference": null,
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": true,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-08-07T08:00:00Z",
+   "notes": "Status Healthy; Selector jain.aditi@gmail.com; Sync mode Continuous sync; Last response '200 OK · 1.8 s'; Activity timestamps shown"
+  },
+  {
+   "resource_id": "data_flow_9846",
+   "system": "integration_service",
+   "record_type": "DATA_FLOW",
+   "references": [
+    "customer_analytics_warehouse"
+   ],
+   "subject_reference": null,
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": true,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-08-07T08:00:00Z",
+   "notes": "Selector lucia-torres@gmail.com; Continuous mode; 842 events/hour; Last contact 07:59:36"
+  },
+  {
+   "resource_id": null,
+   "system": "integration_service",
+   "record_type": "DATA_FLOW",
+   "references": [
+    "Order notifications",
+    "notification_service"
+   ],
+   "subject_reference": null,
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": true,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-08-07T08:00:00Z",
+   "notes": "Selector 'order events'; Continuous mode; 650 events/hour; Last contact 07:59:28"
+  },
+  {
+   "resource_id": null,
+   "system": "integration_service",
+   "record_type": "DATA_FLOW",
+   "references": [
+    "Delivery tracking",
+    "logistics_warehouse"
+   ],
+   "subject_reference": null,
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": true,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-08-07T08:00:00Z",
+   "notes": "Selector 'shipment events'; Continuous mode; 420 events/hour; Last contact 07:59:13"
+  }
+ ]
+}

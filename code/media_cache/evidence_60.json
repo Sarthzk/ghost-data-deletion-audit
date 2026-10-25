@@ -1,0 +1,31 @@
+{
+ "file_id": "evidence_60",
+ "file_path": "evidence/images/marketing_profile_console.png",
+ "artifact_kind": "marketing_profile_screenshot",
+ "records": [
+  {
+   "resource_id": "marketing_001",
+   "system": "marketing_platform",
+   "record_type": "MARKETING_PROFILE",
+   "references": [
+    "sj.park@naver.com",
+    "+82 10-5837-9451",
+    "Returning customers — East Asia",
+    "Repeat customer - Home & lifestyle - Mobile shopper",
+    "Preferred categories: Desk accessories · Drinkware",
+    "Last refreshed: 15 Sep 2026 23:40 UTC"
+   ],
+   "subject_reference": null,
+   "full_name": "Soo-jin Park",
+   "email": "sj.park@naver.com",
+   "phone": "+82 10-5837-9451",
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-09-16T07:20:00Z",
+   "notes": "Market: South Korea; Language: Korean; Email opt-in: Yes; SMS opt-in: No; Open rate 32.4%; Click rate 6.8%; Recent activity rows shown."
+  }
+ ]
+}

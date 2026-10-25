@@ -1,0 +1,244 @@
+{
+ "results": [
+  {
+   "id": 0,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 1,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 2,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 3,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 4,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 5,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 6,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 7,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 8,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 9,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 10,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 11,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 12,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 13,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 14,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 15,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 16,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 17,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 18,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 19,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 20,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 21,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 22,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data, including copies"
+  },
+  {
+   "id": 23,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data, including copies"
+  },
+  {
+   "id": 24,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data and linked identifiers"
+  },
+  {
+   "id": 25,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated privacy-process-covered records"
+  },
+  {
+   "id": 26,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 27,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 28,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 29,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 30,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 31,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 32,
+   "authorizes_deletion": false,
+   "request_type": "MARKETING_OPT_OUT",
+   "reason": "Unsubscribe from marketing only; keep account and receipts"
+  },
+  {
+   "id": 33,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Remove profile and personal details from support conversations"
+  },
+  {
+   "id": 34,
+   "authorizes_deletion": false,
+   "request_type": "MARKETING_OPT_OUT",
+   "reason": "Stop promotional emails but retain account and order history"
+  },
+  {
+   "id": 35,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 36,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 37,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data"
+  },
+  {
+   "id": 38,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data across systems"
+  },
+  {
+   "id": 39,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Request to permanently delete account and associated personal data across systems"
+  }
+ ]
+}

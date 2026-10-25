@@ -1,0 +1,5 @@
+case_id,email,requested_at,reported_status,reported_at,audit_at,request_text
+custom_01,minjun.kim90@gmail.com,2026-08-24T12:00:00Z,COMPLETE,2026-08-25T12:00:00Z,2026-09-15T12:00:00Z,"I changed the email on this account before deleting it. Please check that nothing tied to the old address was left behind, even in systems that do not display the email."
+custom_02,NOVAK.TOMASZ@ICLOUD.COM,2026-09-09T12:00:00Z,COMPLETE,2026-09-12T12:00:00Z,2026-10-01T12:00:00Z,I would like the account associated with this address to be erased. Please handle any copies that fall within the scope of the deletion request. Please contact me if you need information to verify the request.
+custom_03,e.varga90@yahoo.com,2026-08-17T12:00:00Z,PARTIALLY_COMPLETE,2026-08-19T12:00:00Z,2026-09-15T12:00:00Z,"Bitte löschen Sie nichts. Ich möchte nur eine Kopie der Daten erhalten, die Sie über mich gespeichert haben, und das Konto weiter nutzen."
+custom_04,noor-khalil@proton.me,2026-09-08T12:00:00Z,NOT_STARTED,2026-09-09T12:00:00Z,2026-10-01T12:00:00Z,アカウントは削除しないでください。保有している私の個人情報の内容を確認したいので、写しを送ってください。

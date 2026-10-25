@@ -1,0 +1,148 @@
+{
+ "file_id": "evidence_28",
+ "file_path": "evidence/images/support_ticket_console_20260524.png",
+ "artifact_kind": "support_ticket_screenshot",
+ "records": [
+  {
+   "resource_id": "support_1034",
+   "system": "support_platform",
+   "record_type": "SUPPORT_MESSAGE",
+   "references": [
+    "CS-5034",
+    "support_1034",
+    "ORD-20265034"
+   ],
+   "subject_reference": null,
+   "full_name": "Kofi Agyeman",
+   "email": "kagyeman8947@fastmail.com",
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-05-24T07:00:00Z",
+   "notes": "Ticket title 'Where is my delivery?'; SLA 01:42; assigned to Maya Chen; tags Delivery · Tracking · Order update"
+  },
+  {
+   "resource_id": "support_1034",
+   "system": "support_platform",
+   "record_type": "USER_PROFILE",
+   "references": [
+    "CS-5034"
+   ],
+   "subject_reference": null,
+   "full_name": "Kofi Agyeman",
+   "email": "kagyeman8947@fastmail.com",
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-05-24T07:00:00Z",
+   "notes": "Customer shown in ticket header"
+  },
+  {
+   "resource_id": "support_1034",
+   "system": "support_platform",
+   "record_type": "SUPPORT_MESSAGE",
+   "references": [
+    "CS-5034"
+   ],
+   "subject_reference": null,
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": null,
+   "notes": "Message #1 09:12 from Kofi Agyeman: 'Could you let me know where my order is and when it is expected to arrive?'",
+   "resolved_from_alias": "shared reference CS-5034"
+  },
+  {
+   "resource_id": "support_1034",
+   "system": "support_platform",
+   "record_type": "SUPPORT_MESSAGE",
+   "references": [
+    "CS-5034"
+   ],
+   "subject_reference": null,
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": null,
+   "notes": "Message #2 09:13 from Northstar Bot: 'We received your message and are checking the order details.'",
+   "resolved_from_alias": "shared reference CS-5034"
+  },
+  {
+   "resource_id": "support_1034",
+   "system": "support_platform",
+   "record_type": "SUPPORT_MESSAGE",
+   "references": [
+    "CS-5034"
+   ],
+   "subject_reference": null,
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": null,
+   "notes": "Message #3 09:28 from Maya Chen: 'The parcel reached the regional hub and is on track for delivery on 26 May.'",
+   "resolved_from_alias": "shared reference CS-5034"
+  },
+  {
+   "resource_id": "support_1034",
+   "system": "support_platform",
+   "record_type": "SUPPORT_MESSAGE",
+   "references": [
+    "CS-5034"
+   ],
+   "subject_reference": null,
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": null,
+   "notes": "Message #4 09:35 from Kofi Agyeman: 'Thanks for the update.'",
+   "resolved_from_alias": "shared reference CS-5034"
+  },
+  {
+   "resource_id": "support_1034",
+   "system": null,
+   "record_type": null,
+   "references": [
+    "ORD-20265034",
+    "CS-5034"
+   ],
+   "subject_reference": null,
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-05-24T07:00:00Z",
+   "notes": "Order: product 'Running shoes'; status In transit; carrier SwiftShip; tracking SWF-884103; expected 26 May 2026; assigned agent Maya Chen",
+   "resolved_from_alias": "shared reference CS-5034, ORD-20265034"
+  }
+ ]
+}

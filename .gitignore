@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+code/evaluation/last_sample_predictions.csv
+code.zip
+.venv/
+
+# Mac-only notes and challenge docs (not published)
+log.txt
+INTERVIEW_PREP.md
+PLAN.md
+AGENTS.md
+CLAUDE.md
+problem_statement.md
+agent_trace_instructions.md

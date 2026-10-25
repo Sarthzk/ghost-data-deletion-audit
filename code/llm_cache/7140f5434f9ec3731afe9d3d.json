@@ -1,0 +1,165 @@
+{
+ "artifact_kind": "object_storage_snapshot",
+ "records": [
+  {
+   "resource_id": "delivery_confirmation_19.pdf",
+   "system": "object_storage",
+   "record_type": null,
+   "references": [
+    "northstar-customer-data",
+    "eu-west-1 / support-attachments / 2026 / 02"
+   ],
+   "subject_reference": null,
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-02-13T08:00:00Z",
+   "notes": "Size 684 KB; Modified 12 Feb 18:42 UTC; Version v3; Encryption AES-256; Checksum e71b6d...; Uploader support-service"
+  },
+  {
+   "resource_id": "delivery_confirmation_20.pdf",
+   "system": "object_storage",
+   "record_type": null,
+   "references": [
+    "northstar-customer-data",
+    "eu-west-1 / support-attachments / 2026 / 02"
+   ],
+   "subject_reference": null,
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-02-13T08:00:00Z",
+   "notes": "Size 712 KB; Modified 11 Feb 14:17 UTC; Version v1"
+  },
+  {
+   "resource_id": "return_label_4821.pdf",
+   "system": "object_storage",
+   "record_type": null,
+   "references": [
+    "northstar-customer-data",
+    "eu-west-1 / support-attachments / 2026 / 02"
+   ],
+   "subject_reference": null,
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-02-13T08:00:00Z",
+   "notes": "Size 203 KB; Modified 10 Feb 09:33 UTC; Version v1"
+  },
+  {
+   "resource_id": "return_label_4876.pdf",
+   "system": "object_storage",
+   "record_type": null,
+   "references": [
+    "northstar-customer-data",
+    "eu-west-1 / support-attachments / 2026 / 02"
+   ],
+   "subject_reference": null,
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-02-13T08:00:00Z",
+   "notes": "Size 198 KB; Modified 11 Feb 16:05 UTC; Version v2"
+  },
+  {
+   "resource_id": "invoice_NS-10493.pdf",
+   "system": "object_storage",
+   "record_type": null,
+   "references": [
+    "northstar-customer-data",
+    "eu-west-1 / support-attachments / 2026 / 02"
+   ],
+   "subject_reference": null,
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-02-13T08:00:00Z",
+   "notes": "Size 318 KB; Modified 10 Feb 11:21 UTC; Version v1"
+  },
+  {
+   "resource_id": "parcel_damage_7713.jpg",
+   "system": "object_storage",
+   "record_type": null,
+   "references": [
+    "northstar-customer-data",
+    "eu-west-1 / support-attachments / 2026 / 02"
+   ],
+   "subject_reference": null,
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-02-13T08:00:00Z",
+   "notes": "Size 2.4 MB; Modified 12 Feb 10:08 UTC; Version v1"
+  },
+  {
+   "resource_id": "customer_export_2026-02-10.zip",
+   "system": "object_storage",
+   "record_type": null,
+   "references": [
+    "northstar-customer-data",
+    "eu-west-1 / support-attachments / 2026 / 02"
+   ],
+   "subject_reference": null,
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-02-13T08:00:00Z",
+   "notes": "Size 128 MB; Modified 10 Feb 23:14 UTC; Version v1"
+  },
+  {
+   "resource_id": "customer_export_2026-02-12.zip",
+   "system": "object_storage",
+   "record_type": null,
+   "references": [
+    "northstar-customer-data",
+    "eu-west-1 / support-attachments / 2026 / 02"
+   ],
+   "subject_reference": null,
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-02-13T08:00:00Z",
+   "notes": "Size 131 MB; Modified 12 Feb 21:56 UTC; Version v1"
+  }
+ ]
+}

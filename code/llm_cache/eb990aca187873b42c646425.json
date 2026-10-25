@@ -1,0 +1,244 @@
+{
+ "results": [
+  {
+   "id": 0,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion and confirmation after checks"
+  },
+  {
+   "id": 1,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion and confirmation when review completes"
+  },
+  {
+   "id": 2,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion and confirmation after process finishes"
+  },
+  {
+   "id": 3,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion with identity and data review and confirmation"
+  },
+  {
+   "id": 4,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion and notification when completed"
+  },
+  {
+   "id": 5,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion and confirmation when review completes"
+  },
+  {
+   "id": 6,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion and notice once request reviewed"
+  },
+  {
+   "id": 7,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion and confirmation after process finishes"
+  },
+  {
+   "id": 8,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion applied to account records and confirmation"
+  },
+  {
+   "id": 9,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion and notification when completed"
+  },
+  {
+   "id": 10,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion and confirmation after required checks"
+  },
+  {
+   "id": 11,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion and offers info to verify request"
+  },
+  {
+   "id": 12,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion and confirmation after process finishes"
+  },
+  {
+   "id": 13,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion following retention and deletion requirements"
+  },
+  {
+   "id": 14,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion and confirmation of final outcome"
+  },
+  {
+   "id": 15,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion and notification when completed"
+  },
+  {
+   "id": 16,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion and confirmation after required checks"
+  },
+  {
+   "id": 17,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion and asks to be contacted for verification"
+  },
+  {
+   "id": 18,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion and notice once request reviewed"
+  },
+  {
+   "id": 19,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion including copies and confirmation after process"
+  },
+  {
+   "id": 20,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion including info linked to past identifiers"
+  },
+  {
+   "id": 21,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion including earlier identifiers and confirmation after checks"
+  },
+  {
+   "id": 22,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion including earlier identifiers and confirmation when review completes"
+  },
+  {
+   "id": 23,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account deletion and asks to be contacted for verification"
+  },
+  {
+   "id": 24,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion of records associated with account under privacy process"
+  },
+  {
+   "id": 25,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion of associated records and asks to be contacted for verification"
+  },
+  {
+   "id": 26,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion under standard personal-data deletion procedure"
+  },
+  {
+   "id": 27,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion under standard procedure and confirmation after checks"
+  },
+  {
+   "id": 28,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion after reviewing identifiers and confirmation of final outcome"
+  },
+  {
+   "id": 29,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion after reviewing identifiers and notification when completed"
+  },
+  {
+   "id": 30,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion after reviewing identifiers and notice once reviewed"
+  },
+  {
+   "id": 31,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion or de-identification and short confirmation when complete"
+  },
+  {
+   "id": 32,
+   "authorizes_deletion": false,
+   "request_type": "ACCOUNT_SUPPORT",
+   "reason": "Cannot access profile; requests login reset and explicitly forbids closure"
+  },
+  {
+   "id": 33,
+   "authorizes_deletion": true,
+   "request_type": "DELETION_FOLLOW_UP",
+   "reason": "Asks check that nothing tied to old email remained after deletion"
+  },
+  {
+   "id": 34,
+   "authorizes_deletion": true,
+   "request_type": "DELETION_FOLLOW_UP",
+   "reason": "Closed account but export file still accessible; requests deletion of export"
+  },
+  {
+   "id": 35,
+   "authorizes_deletion": true,
+   "request_type": "DELETION_FOLLOW_UP",
+   "reason": "Deleted account previously; requests verification that profile is gone and limited retention"
+  },
+  {
+   "id": 36,
+   "authorizes_deletion": true,
+   "request_type": "DELETION_FOLLOW_UP",
+   "reason": "Received deletion confirmation but account still recognized; requests removal of remaining copy"
+  },
+  {
+   "id": 37,
+   "authorizes_deletion": true,
+   "request_type": "DELETION_FOLLOW_UP",
+   "reason": "Disconnected account but integration still active; requests complete closure and stop data sharing"
+  },
+  {
+   "id": 38,
+   "authorizes_deletion": true,
+   "request_type": "DELETION_FOLLOW_UP",
+   "reason": "Found report saying account existed; requests check and confirmation profile is gone"
+  },
+  {
+   "id": 39,
+   "authorizes_deletion": false,
+   "request_type": "ACCESS",
+   "reason": "Requests copies of invoices and asks profile and history remain in place"
+  }
+ ]
+}

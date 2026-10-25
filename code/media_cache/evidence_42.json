@@ -1,0 +1,111 @@
+{
+ "file_id": "evidence_42",
+ "file_path": "evidence/images/deleted_account_reference_20260310.png",
+ "artifact_kind": "identity_service",
+ "records": [
+  {
+   "resource_id": "tombstone_17",
+   "system": "identity_service",
+   "record_type": "ACCOUNT_TOMBSTONE",
+   "references": [
+    "user_17",
+    "ORD-20263245",
+    "CS-3245",
+    "CS-3378",
+    "FIN-7742"
+   ],
+   "subject_reference": "user_17",
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-03-10T06:00:00Z",
+   "notes": "Customer key; owner team Account Platform; created 2024-01-11T08:42Z; most recent update 2026-03-10T07:18Z; 4 linked records",
+   "resolved_from_alias": "user_17"
+  },
+  {
+   "resource_id": "tombstone_17",
+   "system": "identity_service",
+   "record_type": "ACCOUNT_TOMBSTONE",
+   "references": [
+    "ORD-20263245"
+   ],
+   "subject_reference": "user_17",
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-03-10T06:00:00Z",
+   "notes": "System: Orders; relationship: Linked to customer; created 2024-01-11T08:45Z; status Active",
+   "resolved_from_alias": "shared reference ORD-20263245"
+  },
+  {
+   "resource_id": "tombstone_17",
+   "system": "identity_service",
+   "record_type": "ACCOUNT_TOMBSTONE",
+   "references": [
+    "CS-3245"
+   ],
+   "subject_reference": "user_17",
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-03-10T06:00:00Z",
+   "notes": "System: Support; relationship: Linked to customer; created 2024-02-14T12:16Z; status Active",
+   "resolved_from_alias": "shared reference CS-3245"
+  },
+  {
+   "resource_id": "tombstone_17",
+   "system": "identity_service",
+   "record_type": "ACCOUNT_TOMBSTONE",
+   "references": [
+    "CS-3378"
+   ],
+   "subject_reference": "user_17",
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-03-10T06:00:00Z",
+   "notes": "System: Support; relationship: Linked to customer; created 2024-06-03T09:27Z; status Active",
+   "resolved_from_alias": "shared reference CS-3378"
+  },
+  {
+   "resource_id": "tombstone_17",
+   "system": "identity_service",
+   "record_type": "ACCOUNT_TOMBSTONE",
+   "references": [
+    "FIN-7742"
+   ],
+   "subject_reference": "user_17",
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-03-10T06:00:00Z",
+   "notes": "System: Finance; relationship: Linked to customer; created 2024-08-22T15:03Z; status Active",
+   "resolved_from_alias": "shared reference FIN-7742"
+  }
+ ]
+}

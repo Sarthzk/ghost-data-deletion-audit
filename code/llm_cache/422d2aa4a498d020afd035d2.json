@@ -1,0 +1,244 @@
+{
+ "results": [
+  {
+   "id": 0,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 1,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 2,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 3,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 4,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 5,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 6,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 7,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 8,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 9,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 10,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 11,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 12,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 13,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 14,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 15,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 16,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 17,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 18,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 19,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 20,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 21,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 22,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 23,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 24,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 25,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 26,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 27,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 28,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 29,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account and personal data be removed"
+  },
+  {
+   "id": 30,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests deletion of records under both current and prior emails"
+  },
+  {
+   "id": 31,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests deletion of records under both current and prior emails"
+  },
+  {
+   "id": 32,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account closure and personal data deletion"
+  },
+  {
+   "id": 33,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account closure and personal data deletion"
+  },
+  {
+   "id": 34,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account closure and personal data deletion"
+  },
+  {
+   "id": 35,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account closure and personal data deletion"
+  },
+  {
+   "id": 36,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account closure and personal data deletion"
+  },
+  {
+   "id": 37,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account closure and personal data deletion"
+  },
+  {
+   "id": 38,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account closure and personal data deletion"
+  },
+  {
+   "id": 39,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Customer requests account closure and personal data deletion"
+  }
+ ]
+}

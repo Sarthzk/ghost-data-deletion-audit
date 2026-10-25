@@ -1,0 +1,10 @@
+{
+ "results": [
+  {
+   "id": 0,
+   "authorizes_deletion": false,
+   "request_type": "ACCESS",
+   "reason": "Requests a copy of their personal data; explicitly says do not delete account."
+  }
+ ]
+}

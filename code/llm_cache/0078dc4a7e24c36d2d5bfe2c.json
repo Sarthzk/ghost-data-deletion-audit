@@ -1,0 +1,125 @@
+{
+ "artifact_kind": "legal_retention_register",
+ "records": [
+  {
+   "resource_id": "ORD-20264118",
+   "system": "legal_service",
+   "record_type": "LEGAL_HOLD_RECORD",
+   "references": [
+    "ORD-20264118",
+    "user_08"
+   ],
+   "subject_reference": "user_08",
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": "2033-05-04",
+   "observed_at": "2026-05-29T08:00:00Z",
+   "notes": "Card dispute; invoice date 04 May 2026; amount USD 184.20; custody AR"
+  },
+  {
+   "resource_id": "ORD-20264207",
+   "system": "legal_service",
+   "record_type": "LEGAL_HOLD_RECORD",
+   "references": [
+    "ORD-20264207",
+    "user_12"
+   ],
+   "subject_reference": "user_12",
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": "2033-05-09",
+   "observed_at": "2026-05-29T08:00:00Z",
+   "notes": "Tax correction; invoice date 09 May 2026; amount EUR 72.40; custody ML"
+  },
+  {
+   "resource_id": "ORD-20264319",
+   "system": "legal_service",
+   "record_type": "LEGAL_HOLD_RECORD",
+   "references": [
+    "ORD-20264319",
+    "user_17"
+   ],
+   "subject_reference": "user_17",
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": "2033-05-14",
+   "observed_at": "2026-05-29T08:00:00Z",
+   "notes": "Chargeback; invoice date 14 May 2026; amount GBP 219.00; custody SK"
+  },
+  {
+   "resource_id": "ORD-20264402",
+   "system": "legal_service",
+   "record_type": "LEGAL_HOLD_RECORD",
+   "references": [
+    "ORD-20264402",
+    "user_21"
+   ],
+   "subject_reference": "user_21",
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": "2033-05-18",
+   "observed_at": "2026-05-29T08:00:00Z",
+   "notes": "Invoice inquiry; invoice date 18 May 2026; amount CAD 96.55; custody AR"
+  },
+  {
+   "resource_id": "ORD-20264511",
+   "system": "legal_service",
+   "record_type": "LEGAL_HOLD_RECORD",
+   "references": [
+    "ORD-20264511",
+    "user_24"
+   ],
+   "subject_reference": "user_24",
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": "2033-05-23",
+   "observed_at": "2026-05-29T08:00:00Z",
+   "notes": "Card dispute; invoice date 23 May 2026; amount AUD 311.80; custody ML"
+  },
+  {
+   "resource_id": "ORD-20264600",
+   "system": "legal_service",
+   "record_type": "LEGAL_HOLD_RECORD",
+   "references": [
+    "ORD-20264600",
+    "user_29"
+   ],
+   "subject_reference": "user_29",
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": "2033-05-28",
+   "observed_at": "2026-05-29T08:00:00Z",
+   "notes": "Tax record; invoice date 28 May 2026; amount USD 48.75; custody SK"
+  }
+ ]
+}

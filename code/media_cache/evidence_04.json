@@ -1,0 +1,85 @@
+{
+ "file_id": "evidence_04",
+ "file_path": "evidence/images/account_admin_console_20260926.png",
+ "artifact_kind": "account_admin_portal / customer profile",
+ "records": [
+  {
+   "resource_id": "account_5762",
+   "system": "account_service",
+   "record_type": "USER_PROFILE",
+   "references": [
+    "user_11",
+    "account_5762"
+   ],
+   "subject_reference": "user_11",
+   "full_name": "Haruka Sato",
+   "email": "haruka.s1838@zoho.com",
+   "phone": "+81 90 7610 2507",
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-09-26T11:00:00Z",
+   "notes": "signup_channel=mobile_app;market=JP;preferred_language=Japanese;last_contact=2026-09-24T09:14:00+09:00;default_address=2-18-4 Kichijoji, Musashino, Tokyo 180-0004;loyalty=Silver;member_since=2024-01-12"
+  },
+  {
+   "resource_id": null,
+   "system": "account_service",
+   "record_type": null,
+   "references": [
+    "ORD-20265762"
+   ],
+   "subject_reference": "user_11",
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-09-26T11:00:00Z",
+   "notes": "order date=2026-09-12;item=Ceramic coffee set;qty=1;total=JPY 8,900;status=Delivered (18 Sep)"
+  },
+  {
+   "resource_id": null,
+   "system": "account_service",
+   "record_type": null,
+   "references": [
+    "ORD-20265518"
+   ],
+   "subject_reference": "user_11",
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-09-26T11:00:00Z",
+   "notes": "order date=2026-08-28;item=Travel backpack;qty=1;total=JPY 12,400;status=Returned (03 Sep)"
+  },
+  {
+   "resource_id": "support_9538",
+   "system": "support_platform",
+   "record_type": "SUPPORT_MESSAGE",
+   "references": [
+    "CS-8538",
+    "support_9538"
+   ],
+   "subject_reference": "user_11",
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-09-26T11:00:00Z",
+   "notes": "support ticket CS-8538 referenced; created 2026-08-28; customer replied 2026-09-24"
+  }
+ ]
+}

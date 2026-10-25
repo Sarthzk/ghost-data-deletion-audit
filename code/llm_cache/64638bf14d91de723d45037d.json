@@ -1,0 +1,75 @@
+{
+ "artifact_kind": "backup_snapshot",
+ "records": [
+  {
+   "resource_id": "backup_9291",
+   "system": "backup_service",
+   "record_type": "BACKUP_ARCHIVE",
+   "references": [],
+   "subject_reference": null,
+   "full_name": null,
+   "email": "bluepeakco@outlook.com",
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-04-29T09:00:00Z",
+   "notes": "Region ap-southeast-1; Created 2026-04-26T02:00:00Z; Size 102.3 GB; Encryption AES-256; Tier Archive"
+  },
+  {
+   "resource_id": "backup_9288",
+   "system": "backup_service",
+   "record_type": "BACKUP_ARCHIVE",
+   "references": [],
+   "subject_reference": null,
+   "full_name": null,
+   "email": "miller.logistics@company.com",
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-04-29T09:00:00Z",
+   "notes": "Region us-west-2; Created 2026-04-26T02:00:00Z; Size 67.1 GB; Encryption AES-256; Tier Archive"
+  },
+  {
+   "resource_id": "backup_9287",
+   "system": "backup_service",
+   "record_type": "BACKUP_ARCHIVE",
+   "references": [
+    "s3://northstar-backups/customer-platform/weekly/segment-42-20260426.tar.zst"
+   ],
+   "subject_reference": null,
+   "full_name": null,
+   "email": "areed1433@gmail.com",
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": "2026-07-26",
+   "observed_at": "2026-04-29T09:00:00Z",
+   "notes": "Region eu-west-1; Created 2026-04-26T02:00:00Z; Size 84.7 GB; Encryption AES-256; Checksum Verified; Last drill 2026-03-29; Activity: 25 Apr backup_9286 restored; 24 Apr backup_9281 restored; 22 Apr checksum verification completed"
+  },
+  {
+   "resource_id": "backup_9286",
+   "system": "backup_service",
+   "record_type": "BACKUP_ARCHIVE",
+   "references": [],
+   "subject_reference": null,
+   "full_name": null,
+   "email": "summit-retail@company.com",
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-04-29T09:00:00Z",
+   "notes": "Region us-east-1; Created 2026-04-26T02:00:00Z; Size 91.4 GB; Encryption AES-256; Tier Archive"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "artifact_kind": "support_ticket_snapshot",
+ "records": [
+  {
+   "resource_id": "support_001",
+   "system": "support_platform",
+   "record_type": "SUPPORT_MESSAGE",
+   "references": [
+    "CS-4827",
+    "ORD-20264827"
+   ],
+   "subject_reference": null,
+   "full_name": "Priya Raman",
+   "email": "priya.raman@gmail.com",
+   "phone": "+91 98765 73142",
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-06-18T10:24:00Z",
+   "notes": "Delivery address correction request; preferred contact SMS; change apt 14B to 18B; call before delivery"
+  },
+  {
+   "resource_id": "delivery_address_correction.pdf",
+   "system": "support_platform",
+   "record_type": "SUPPORT_ATTACHMENT",
+   "references": [
+    "ticket CS-4827",
+    "checksum prefix c90a42",
+    "region ap-south"
+   ],
+   "subject_reference": null,
+   "full_name": null,
+   "email": null,
+   "phone": null,
+   "email_hash": null,
+   "present": true,
+   "enabled": null,
+   "restore_allowed": null,
+   "retention_until": null,
+   "observed_at": "2026-09-12T07:30:00Z",
+   "notes": "312 KB file uploaded by customer; captured 12 Sep 2026 07:30 UTC"
+  }
+ ]
+}

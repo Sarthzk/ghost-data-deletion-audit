@@ -1,0 +1,244 @@
+{
+ "results": [
+  {
+   "id": 0,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "User requests account and personal data deletion, asks confirmation"
+  },
+  {
+   "id": 1,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "User requests account and personal data deletion with confirmation"
+  },
+  {
+   "id": 2,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "User requests account and personal data deletion and confirmation"
+  },
+  {
+   "id": 3,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "User requests account deletion and offers verification if needed"
+  },
+  {
+   "id": 4,
+   "authorizes_deletion": false,
+   "request_type": "PORTABILITY",
+   "reason": "User requests downloadable portable copy and wants account kept"
+  },
+  {
+   "id": 5,
+   "authorizes_deletion": true,
+   "request_type": "DELETION_FOLLOW_UP",
+   "reason": "Follow-up: earlier deletion errored, asks to check and complete deletion"
+  },
+  {
+   "id": 6,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "User states they are deleting account and requests removal of identifiable data"
+  },
+  {
+   "id": 7,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "French request for permanent account deletion and confirmation after verification"
+  },
+  {
+   "id": 8,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Profile still appears in search; asks removal of remaining search result"
+  },
+  {
+   "id": 9,
+   "authorizes_deletion": false,
+   "request_type": "CORRECTION",
+   "reason": "User requests surname correction and explicitly not to remove records"
+  },
+  {
+   "id": 10,
+   "authorizes_deletion": true,
+   "request_type": "DELETION_FOLLOW_UP",
+   "reason": "User asks audit/confirmation that prior deletion fully removed account"
+  },
+  {
+   "id": 11,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests initiation of account deletion and confirmation when complete"
+  },
+  {
+   "id": 12,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests initiation of deletion across systems and short completion confirmation"
+  },
+  {
+   "id": 13,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion, record checks, and confirmation after required checks"
+  },
+  {
+   "id": 14,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion, record checks, and confirmation when review completes"
+  },
+  {
+   "id": 15,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion and asks to be contacted if verification information is needed"
+  },
+  {
+   "id": 16,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion and notification once request has been reviewed"
+  },
+  {
+   "id": 17,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion with normal identity and data review and notification afterwards"
+  },
+  {
+   "id": 18,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion applied to relevant records and short confirmation when done"
+  },
+  {
+   "id": 19,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion applied to relevant records and notification after review"
+  },
+  {
+   "id": 20,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion following applicable retention and deletion requirements with confirmation"
+  },
+  {
+   "id": 21,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion following retention rules and notification after review"
+  },
+  {
+   "id": 22,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion and handling of any copies, asks for final confirmation"
+  },
+  {
+   "id": 23,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion, handling of copies, and notification when completed"
+  },
+  {
+   "id": 24,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion, handling of copies, and confirmation after required checks"
+  },
+  {
+   "id": 25,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion including current or earlier account identifiers and confirmation"
+  },
+  {
+   "id": 26,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion including past identifiers and asks for confirmation after completion"
+  },
+  {
+   "id": 27,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion including records associated under privacy process and confirmation"
+  },
+  {
+   "id": 28,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion and review of identifiers connected to account with confirmation"
+  },
+  {
+   "id": 29,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion, identifier review, and confirmation when review completes"
+  },
+  {
+   "id": 30,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion, identifier review, and confirmation after process finishes"
+  },
+  {
+   "id": 31,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion and review of eligible account data with short confirmation"
+  },
+  {
+   "id": 32,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests deletion and notification when request has been completed"
+  },
+  {
+   "id": 33,
+   "authorizes_deletion": false,
+   "request_type": "CORRECTION",
+   "reason": "User requests changing the account email to continue using service"
+  },
+  {
+   "id": 34,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account closure and associated personal-data deletion with confirmation"
+  },
+  {
+   "id": 35,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account closure and deletion and asks for confirmation after process finishes"
+  },
+  {
+   "id": 36,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account closure and deletion across systems; offers verification contact"
+  },
+  {
+   "id": 37,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account closure and deletion across systems and notification after review"
+  },
+  {
+   "id": 38,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account closure, deletion, record checks, and confirmation of final outcome"
+  },
+  {
+   "id": 39,
+   "authorizes_deletion": true,
+   "request_type": "DELETION",
+   "reason": "Requests account closure, deletion, record checks, and contact for verification if needed"
+  }
+ ]
+}

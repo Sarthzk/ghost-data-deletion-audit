@@ -1,0 +1,10 @@
+{
+ "results": [
+  {
+   "id": 0,
+   "authorizes_deletion": false,
+   "request_type": "PORTABILITY",
+   "reason": "Requests a copy of their data while keeping the account active."
+  }
+ ]
+}
